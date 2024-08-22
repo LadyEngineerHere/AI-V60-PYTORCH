@@ -1,0 +1,26 @@
+<annotation>
+	<folder>external</folder>
+	<filename>IMG_0026.jpeg</filename>
+	<path>/Users/amandanassar/Desktop/V60 NOK AI/Data images/external/IMG_0026.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>703</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>external</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>143</ymin>
+			<xmax>507</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>

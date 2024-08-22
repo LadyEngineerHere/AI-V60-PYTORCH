@@ -1,0 +1,26 @@
+<annotation>
+	<folder>realNOK</folder>
+	<filename>IMG_0035.jpeg</filename>
+	<path>/Users/amandanassar/Desktop/V60 NOK AI/Data images/realNOK/IMG_0035.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>686</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>realNOK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>300</ymin>
+			<xmax>619</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

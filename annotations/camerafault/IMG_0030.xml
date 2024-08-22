@@ -1,0 +1,26 @@
+<annotation>
+	<folder>camerafault</folder>
+	<filename>IMG_0030.jpeg</filename>
+	<path>/Users/amandanassar/Desktop/V60 NOK AI/Data images/camerafault/IMG_0030.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>710</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camerafault</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>676</xmin>
+			<ymin>257</ymin>
+			<xmax>795</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
